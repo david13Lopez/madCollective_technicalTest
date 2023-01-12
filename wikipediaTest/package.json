@@ -1,0 +1,16 @@
+{
+    "name": "wikipediatest",
+    "version": "1.0.0",
+    "description": "Testing project to test wikipedia",
+    "main": "index.js",
+    "scripts": {
+        "test": "cypress run"
+    },
+    "author": "David Lopez Ruedas",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^12.3.0",
+        "mocha": "^5.2.0",
+        "mochawesome": "^4.1.0"
+    }
+}
