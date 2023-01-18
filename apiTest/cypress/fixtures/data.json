@@ -1,0 +1,9 @@
+{
+    "simpleSearchParam": "cat",
+    "multipleSearchParam": "cat+dancing",
+    "exceedLimitNumber": 51,
+    "zeroLimitNumber": 0,
+    "apiKey": "r9l741mias7U4OBS3DEzcZxALFkOv5UV",
+    "correctLang": "en",
+    "incorrectLang": "ws"
+}
